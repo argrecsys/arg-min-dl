@@ -1,5 +1,5 @@
 # Neural Network Architectures for Argument Mining Tasks
-Neural network architectures for solving argument mining tasks.
+Neural network architectures for solving the three major argument mining tasks: argumentative fragment detection, argument component classification, and argumentative relation recognition.
 
 ## Authors
 Created on Sep 19, 2023  
