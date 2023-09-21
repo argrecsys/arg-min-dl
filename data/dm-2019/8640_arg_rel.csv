@@ -1,0 +1,4 @@
+"ar_id","ac_id1","ac_id2","rel_type","rel_intent","annotator","timestamp"
+"1","1","2","elaboration: addition","support","andres.segura","2023-01-06 15:52:45"
+"2","6","7","elaboration: precision","support","andres.segura","2023-01-06 15:52:45"
+"3","9","10","elaboration: addition","support","andres.segura","2023-01-06 15:52:45"

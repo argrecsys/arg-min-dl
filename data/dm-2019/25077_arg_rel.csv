@@ -1,0 +1,8 @@
+"ar_id","ac_id1","ac_id2","rel_type","rel_intent","annotator","timestamp"
+"1","9","10","contrast: comparison","support","andres.segura","2023-03-10 21:38:15"
+"2","11","12","elaboration: addition","support","andres.segura","2023-03-10 21:38:15"
+"3","13","14","clarification: exemplification","support","andres.segura","2023-03-10 21:38:15"
+"4","15","16","elaboration: addition","support","andres.segura","2023-03-10 21:38:15"
+"5","21","22","elaboration: addition","support","andres.segura","2023-03-10 21:38:15"
+"6","24","25","contrast: opposition","attack","andres.segura","2023-03-10 21:38:15"
+"7","24","26","elaboration: precision","support","andres.segura","2023-03-10 21:38:15"
