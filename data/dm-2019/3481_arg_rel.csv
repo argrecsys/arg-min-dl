@@ -1,0 +1,5 @@
+"ar_id","ac_id1","ac_id2","rel_type","rel_intent","annotator","timestamp"
+"1","2","3","cause: reason","support","andres.segura","2023-01-05 18:12:41"
+"2","4","5","contrast: opposition","attack","andres.segura","2023-01-05 18:12:41"
+"3","6","7","consequence: result","support","andres.segura","2023-01-05 18:12:41"
+"4","9","10","consequence: result","support","andres.segura","2023-01-05 18:12:41"
