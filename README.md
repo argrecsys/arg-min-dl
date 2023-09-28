@@ -8,6 +8,12 @@ The corpus is composed of the 40 most controversial proposals, where, collaborat
 
 The first version of this corpus is publicly available in the following <a href="https://github.com/argrecsys/decide-madrid-2019-annotations">repository</a>.
 
+## Pretrained Model
+The contextualized model in Spanish that we are using is BETO: https://github.com/dccuchile/beto
+
+- HuggingFace cased model: https://huggingface.co/dccuchile/bert-base-spanish-wwm-cased
+- HuggingFace uncased model: https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased
+
 ## Authors
 Created on Sep 19, 2023  
 Created by:
