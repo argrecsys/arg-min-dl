@@ -1,5 +1,5 @@
-# Neural Network Architectures for Argument Mining Tasks
-Neural network architectures for solving the three major argument mining tasks: argumentative fragment detection, argument component classification, and argumentative relation recognition.
+# Deep Learning Architectures for Argument Mining Tasks
+Deep learning architectures for solving the three major argument mining tasks: argumentative fragment detection, argument component classification, and argumentative relation recognition.
 
 ## Dataset
 The data used are the small version of the decide-madrid-2019 dataset annotated for argument mining tasks.
