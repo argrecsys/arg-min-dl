@@ -14,6 +14,9 @@ The contextualized model in Spanish that we are using is BETO: https://github.co
 - HuggingFace cased model: https://huggingface.co/dccuchile/bert-base-spanish-wwm-cased
 - HuggingFace uncased model: https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased
 
+## Documentation
+Please read the [contributing](https://github.com/argrecsys/arg-min-dl/blob/main/docs/CONTRIBUTING.md) and [code of conduct](https://github.com/argrecsys/arg-min-dl/blob/main/docs/CODE_OF_CONDUCT.md) documentation.
+
 ## Authors
 Created on Sep 19, 2023  
 Created by:
